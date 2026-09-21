@@ -12,8 +12,7 @@ Work without a working video link is incomplete.
 
 In the video: build the program, run it, and type the four answers at the keyboard. Show the card that prints.
 
-**Your demo:** _add your link here_
-
+**Your demo:** https://youtu.be/koB063Iw4rc 
 
 ## What to build
 A student card. The program asks four questions, stores each answer in a variable with the right type, computes one value from a `const` and an operator, and prints a labeled card from those names.
